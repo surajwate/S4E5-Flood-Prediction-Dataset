@@ -36,6 +36,7 @@ The project is structured as follows:
 ├── README.md
 └── requirements.txt
 ```
+All folders and files shown in the structure is not present in this repository because I added them to .gitignore file, to keep the repository lean. 
 
 ### Key Files
 
